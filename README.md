@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Nicola 👋
 
 <!--
 **Nico-Casarin/Nico-Casarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My GitHub Stats
+
+[![Nicola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico-Casarin)](https://github.com/Nico-Casarin/github-readme-stats)
